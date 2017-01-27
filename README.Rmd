@@ -1,0 +1,5 @@
+# Introduction to Open Data Science
+
+This is my course project for an introductory course in Data Science. On this course I will learn how to use RStudio, GitHub and DataCamp. And hopefully a thing or two about working with data resources. 
+
+You can find my course diary [here](https://Zipi1994.github.io/IODS-project/). 
